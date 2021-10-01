@@ -1,10 +1,10 @@
-# Artify-nft-contract
+# gamerse-nft-contract
 
 ## How it works
 
-### Artify NFT Contract
+### Gamerse NFT Contract
 
-This is core NFT contract of Artify
+This is core NFT contract of Gamerse
 
 ## Development
 
