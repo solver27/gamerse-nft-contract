@@ -4,7 +4,7 @@
 
 ### Gamerse NFT Contract
 
-This is core NFT contract of Gamerse
+This is NFT contract of Gamerse
 
 ## Development
 
